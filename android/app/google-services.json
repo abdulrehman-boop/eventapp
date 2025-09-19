@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "472178615408",
+    "project_id": "eventmanagementapp-bf192",
+    "storage_bucket": "eventmanagementapp-bf192.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472178615408:android:029b28b791f70028f380b5",
+        "android_client_info": {
+          "package_name": "com.example.eventify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1mfMmNMJgk2dQaNyer_LtQo9AswvMzE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
