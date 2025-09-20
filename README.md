@@ -1,10 +1,10 @@
-Eventify 🎉
+## Eventify 🎉
 
 Your all-in-one Event Management App built with Flutter & Firebase
 
 Eventify makes event planning simple, fun, and modern. Whether you’re organizing a tech conference, concert, or workshop, or just attending an event, Eventify has you covered with booking, reminders, and real-time updates.
 
-✨ Features
+ ## Features
 
 🔑 User Authentication – Secure login/signup with Firebase Auth (Email, Google Sign-In).
 
@@ -24,7 +24,7 @@ Eventify makes event planning simple, fun, and modern. Whether you’re organizi
 
 🎨 Modern UI/UX – Smooth navigation, Lottie animations, and beautiful themes.
 
-🛠️ Tech Stack
+## Tech Stack
 
 Flutter – Cross-platform app (Android & iOS)
 
@@ -38,7 +38,7 @@ Firebase Storage – Store event banners, images, and media
 
 Stripe/Payment Gateway (optional) – For ticket purchases
 
-🚀 Future Add-ons
+## Future Add-ons
 
 🎟️ QR Code Ticket Scanning
 
@@ -50,4 +50,4 @@ Stripe/Payment Gateway (optional) – For ticket purchases
 
 📷 Screenshots
 
-(Add app screenshots here once available)
+I have add app images in folder(appimages).
